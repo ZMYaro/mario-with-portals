@@ -1,0 +1,1 @@
+For Windows, clone this into a subfolder in C:\Users\[YOUR_USER_NAME]\AppData\Roaming\LOVE\mari0\mappacks\
